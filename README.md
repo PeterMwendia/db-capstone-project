@@ -8,3 +8,7 @@ database engineering capstone with MySQL Workbench and Tableau
 ![costs](costs.png)
 
 ![bar](histogram.png)
+
+![scatterplot](scatterplot.png)
+
+![pair](pairplot.png)

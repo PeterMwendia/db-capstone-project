@@ -7,4 +7,4 @@ database engineering capstone with MySQL Workbench and Tableau
 ## visualization using python
 ![costs](costs.png)
 
-![bar](bar.png)
+![bar](histogram.png)
